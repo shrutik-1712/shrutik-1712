@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN stack developer and AI enthusiast.
+Python developer 
 
 
 ## 🌐 Socials:
